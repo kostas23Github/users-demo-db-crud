@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "localhost",
+    "user": "user8",
+    "password": "mySQL1@#",
+    "database": "users",
+    "_comment": "Default for MySQL is port: 3306"
+  }
+}
